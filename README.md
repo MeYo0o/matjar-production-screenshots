@@ -23,7 +23,6 @@ Matjar is a Multi-Vendor E-Commerce App.
 <table>
   <tr>
     <td><img src="assets/showcase/6.png" width=270 height=480></td>
-    <td><img src="assets/showcase/7.png" width=270 height=480></td>
     <td><img src="assets/showcase/8.png" width=270 height=480></td>
   </tr>
 </table>
